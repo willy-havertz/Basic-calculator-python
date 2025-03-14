@@ -14,5 +14,6 @@ A simple command-line calculator written in Python that performs basic arithmeti
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/basic--python.git
-   cd Intro-to-python
+   https://github.com/willy-havertz/Basic-calculator-python.git
+   cd Basic-calculator-python
+2. Run using an online python compiler or an editor such as vscode
